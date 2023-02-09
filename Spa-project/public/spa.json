@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Aesop Herbal Deodorant",
+        "price": "799",
+        "including": "Lightweight, efficacious, adaptable"
+    },
+    {
+        "id": "2",
+        "name": "Aesop Hwyl Eau de Parfum",
+        "price": "1299",
+        "including": "seamless and confident selection"
+    },
+    {
+        "id": "3",
+        "name": "Aesop  Facial Hydrating",
+        "price": "12990",
+        "including": "intricate blend of botanicals and Vitamins C "
+    }
+]
